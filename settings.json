@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FLAMEruns.aternos.me:22934",
+    "port": 22934,
     "version": "",
     "try-creative": false
   },
