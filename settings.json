@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Ay Fonsi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FLAMEruns.aternos.me:22934",
+    "ip": "FLAMEruns.aternos.me",
     "port": 22934,
     "version": "",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
